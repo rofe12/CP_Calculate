@@ -36,7 +36,7 @@ public class Calculate {
 
 	public static int sub(int x, int y) {
 
-		return 777;
+		return 1;
 	}
 
 	public static int mul(int x, int y) {
